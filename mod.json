@@ -25,6 +25,9 @@
 	},
 	"czech" : {
 		"name" : "Czech Map Pack",
-		"description" : "Sbírka českých map pro Heroes of Might and Magic III."
+		"description" : "Sbírka českých map pro Heroes of Might and Magic III.",
+		"translations" : [
+			"translation/czech.json"
+		]
 	}
 }
